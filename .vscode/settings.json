@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "definciones.h": "c",
+        "program_message.h": "c",
+        "lectura_archivo.h": "c",
+        "calculadora_distancia_euclidiana.h": "c",
+        "impresion_puntos.h": "c",
+        "bubble_sort.h": "c",
+        "historial.h": "c",
+        "promedio.h": "c"
+    }
+}
